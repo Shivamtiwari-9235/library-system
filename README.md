@@ -6,8 +6,7 @@ Lumen is a full-stack Next.js App Router application with JavaScript, Tailwind C
 
 ```bash
 npm install
-copy .env.example .env.local
-# add MongoDB URL, database name, and AUTH_SECRET
+
 npm run seed
 npm run dev
 npm test
